@@ -36,7 +36,7 @@ Onex requieres following packages to run properly:
 Open the terminal and type following commands.
 First of all, make sure that you have `git` installed
 
-* ```git clone -b stable --single-branch https://github.com/1ray-1/onex.git```
+* ```git clone -b stable --single-branch https://github.com/mrjuice01/onex.git```
 
 Go to this directory and run onex
 * `cd onex`
