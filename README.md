@@ -533,9 +533,9 @@ Note: As I added the line-break code, to place each enumerated tool on its own l
 
 ## License
 
-**b9OneX (v0.2.1)** (2024)
+**b9.OneX (v0.2.1)** (2024)
 
-b9OneX licensing is still under consideration and undergoing advisement. TBA
+b9.OneX licensing is still under consideration and undergoing advisement. The Onex MIT license permit sublicensing of project forks. So, this newly rebranded fork, to differentiate it from its archived original, will likely sublicence this fork in a dual licence, one for code, the other for documentation. The sublicencse dual-licensing, is yet to be determined, it will most likely be GNU licensing and 'free' in that sense, and therefore, free and open source (FOSS) and non-corporate. Project version G for code and documentation has also undergone change. It honours the version numbering if the former project, whilst initiating the additional patch numeric, that may in occasion, also be alphanumeric. Yet to be determined. In the interim, the new project fork is still protected by the initial licensing which persists into perpetuity for all derivatives. T. B. A. 
 
 **Onex (v0.1) and Onex (v0.2)**
 
