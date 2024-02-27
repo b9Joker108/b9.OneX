@@ -508,11 +508,19 @@ Type `onex -r` or `onex remove` to uninstall onex.
 423 zphisher
 424 zVirus-Gen
 
-Note: As I added the line-break code, to place each enumerated tool on its own line, prescriptive spell-check changed a number of tool name spelling and formatting. I caught a number and repeated them, others I let alone. As, to alternate between the live editing document in the GitHub repository web application, and the Termux terminal emulator with the true-and-correct enumerated OneX toolset list, is like playing Russian Roulette, as potentially the whole session of editing may be lost. So it isn't worth it. Moreover, I generally, as a matter of preference, prefer not to use a window tiling manager or splitscreen displays for general text editing. So, the audited true-and-correct OneX toolset enumeration, will need to await my whim and the proverbial 'winds of change', as this much repetitive, manual editing, is giving me RSI, and will have to await another day. 
+Note: As I added the line-break code, to place each enumerated tool on its own line, prescriptive spell-check changed a number of tool name spelling and formatting. I caught a number and repaired them, others I let alone. As, to alternate between the live editing document in the GitHub repository web application, and the Termux terminal emulator with the true-and-correct enumerated OneX toolset list, is like playing Russian Roulette, as potentially the whole session of editing may be lost. So, it isn't worth it. Moreover, I generally, as a matter of preference, prefer not to use a window tiling manager or splitscreen displays for general text editing. So, the audited true-and-correct OneX toolset enumeration, will need to await my whim and the proverbial 'winds of change', as this much repetitive, manual editing, is giving me RSI, and will have to wait another day. 
 
 ------------------------------------------------------------------------
 
 ## ToDo
+ * I note that the rational for the project initiator of the main repository in archiving their
+   initiative and project repository, may be because Distrobox makes it redundant. I still feel the
+   project is of note, worthwhile, and worth continuing with active maintenance and development. Though,
+   to do do singularly, is currently decidedly beyond my skill-set and pay-grade. With diligence and
+   endeavour, I will grow into it. 
+ * Get acquainted with each tool, their individual purpose and function, and their complete
+   functionalities, their repositories and maintainers,where possible
+ * repositories ans maintainers. 
  * Support Arch Linux
  * Add more tools
  * Write more formal documentation
@@ -524,4 +532,11 @@ Note: As I added the line-break code, to place each enumerated tool on its own l
 ------------------------------------------------------------------------
 
 ## License
-Onex is licensed under [MIT](https://github.com/1RaY-1/onex/blob/main/LICENSE) License.
+
+**b9OneX (v0.2.1)** (2024)
+
+b9OneX licensing is still under consideration and undergoing advisement. TBA
+
+**Onex (v0.1) and Onex (v0.2)**
+
+Onex is licensed under [MIT](https://github.com/1RaY-1/onex/blob/main/LICENSE) License. (pre-2024)
