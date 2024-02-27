@@ -1,9 +1,9 @@
-# Onex v0.2
+# b9.OneX v0.2.1
 
-**Disclaimer**: This software is meant for educational purposes only. I'm not responsible for any malicious use of the tools you can download using the app.
+**Disclaimer**: This software is meant for educational purposes only. The developers are not responsible for any malicious or inappropriate use of the tools that may be download using this application.
 
-**Onex is a hacking tools installer for termux and linux distros made for cybersecurity experts.
-Onex manages at the moment 420 pentesting tools that can be installed on single click.**
+**b9.OneX is a hacking toolset text user interface (TUI), command-lines interface (CLI) installer for Termux, GNU/Linux and potentially, other \*NIX distributions, made for cybersecurity, penetration testing, digital forensics, and open source intelligence (OSInt), and associated purposes and disciplines.
+b9.OneX currently administrates a diverse assortment of 424 tools that may be installed with almost a single click.**
 
 -----------------------------------------------------------------------
 
@@ -13,13 +13,13 @@ Onex manages at the moment 420 pentesting tools that can be installed on single 
 ![2](https://github.com/1RaY-1/onex/assets/78962948/5fa463a9-9cf8-4ce5-84b7-daacc4a40cc6)
 ![3](https://github.com/1RaY-1/onex/assets/78962948/1e659a0f-81bb-4384-a8de-719d69d250ff)
 
-NB: The screenshot stating number of tools in OneX needs to be updated, as it isn't true and correct foe OneX v0.2. Also, I am going to implement a change in the brand styling of the project, from Onex to OneX, with the capital letter 'X' closure for aesthetics, and brand differentiation. Also, I am contemplating iterating the nomenclature of this fork of the project to 'b9OneX' (or 'b9OneX108`), yet to be determined. 
+NB: The screenshot stating number of tools in b9.OneX needs to be updated, as it isn't true and correct for OneX v0.2.1 Also, the developers have implemented a change in the brand styling of the project, from Onex to b9.OneX, with the 'b9' or 'benign' prefix, with a capital letter 'X' in closure, for aesthetics, and brand and repository differentiation.
 
 ------------------------------------------------------------------------
 
 ## Operating System Requirements
 
-Onex works on any of the following operating systems:
+b9.OneX works on any of the following operating systems (OS):
 - **Android** (Using the Termux App)
 - **Linux** (Ubuntu, Kali, Fedora)
 - **Mac** (Should work, but not sure)
@@ -27,13 +27,13 @@ Onex works on any of the following operating systems:
 ------------------------------------------------------------------------
 
 ### Dependencies
-Onex requieres following packages to run properly:
+b9.OneX requieres the following packages to run properly:
 * `curl`
 * `git`
 
 ------------------------------------------------------------------------
 
-## How to install onex?
+## How to install b9.OneX?
 
 Open the terminal and type following commands.
 First of all, make sure that you have `git` installed
