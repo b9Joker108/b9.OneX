@@ -14,10 +14,8 @@ b9.OneX currently administrates a diverse assortment of 424 tools that may be in
 -----------------------------------------------------------------------
 
 ## Screenshots
-![0](https://github.com/1RaY-1/onex/assets/78962948/5289fd6e-f655-4155-8451-3a5b1884b41d)
-![1](https://github.com/1RaY-1/onex/assets/78962948/5d78304d-b5ef-4098-8d3a-d8a45df8b63a)
-![2](https://github.com/1RaY-1/onex/assets/78962948/5fa463a9-9cf8-4ce5-84b7-daacc4a40cc6)
-![3](https://github.com/1RaY-1/onex/assets/78962948/1e659a0f-81bb-4384-a8de-719d69d250ff)
+
+...
 
 NB: The screenshots of b9.OneX need to be updated, as they aren't representative nor true and correct for OneX v0.2.1. Also, the developers have implemented a change in the brand styling and nomenclature of the project, from Onex to b9.OneX, with the 'b9' or 'benign' prefigure upon 'One', with a capital letter 'X' in suffixation, in closure. The rebranding and styling, is for aesthetics, and project, brand and repository differentiation.
 
