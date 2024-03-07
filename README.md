@@ -36,16 +36,21 @@ b9.OneX requieres the following packages to run properly:
 Open the terminal and type following commands.
 First of all, make sure that you have `git` installed
 
-* ```git clone -b stable --single-branch https://github.com/b9Joker108/b9.OneX.git``` 
+```sh
+  git clone -b stable --single-branch https://github.com/b9Joker108/b9.OneX.git
+``` 
 
-Go to this directory and run onex # This is yet to be updated for new project and repository 
+Go to this directory and run onex 
+# This is yet to be updated for new project and repository 
 * `cd onex`
 * `bash onex`
 
 **If you want to install onex , type the following:** 
 NB: This is yet to be updated for new project and repository 
 
-* `chmod +x install && ./install`
+’’’sh
+chmod +x install && ./install
+’’’
 
 NB: This is yet to be updated for new project and repository 
 
@@ -60,7 +65,18 @@ b9.OneX is very simple and easy to use tool, it's available in both CLI Mode and
 NB: This is yet to be updated for new project and repository 
 
 ### CLI Mode :
-`onex -h` or `onex help` for help.
+
+For help
+
+’’’sh
+onex -h
+’’’ 
+
+or 
+
+’’’sh
+onex help
+’’’
 
 NB: This is yet to be updated for new project and repository 
 
@@ -87,7 +103,18 @@ Enter a Number for a specific output:
 NB: This is yet to be updated for new project and repository 
 
 ### How to remove ?
-Type `onex -r` or `onex remove` to uninstall onex.
+To uninstall:
+
+’’’sh
+onex -r
+’’’
+
+or 
+
+’’’sh
+onex remove
+’’’
+
 
 ---------------------------------------------------------------------
  
