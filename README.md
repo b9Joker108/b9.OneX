@@ -1,97 +1,14 @@
-p# b9.OneX v0.2.1
-
-**Disclaimer**: This software is meant for educational purposes only. The developers are not responsible for any malicious or inappropriate use of the tools that may be download using this application.
-
-**b9.OneX is a hacking toolset text user interface (TUI), command-lines interface (CLI) installer for Termux, GNU/Linux and potentially, other \*NIX distributions, made for cybersecurity, penetration testing, digital forensics, and open source intelligence (OSInt), and associated purposes and disciplines.
-b9.OneX currently administrates a diverse assortment of 424 tools that may be installed with almost a single click.**
-
------------------------------------------------------------------------
-
-## Screenshots
-
-...
-
-NB: The screenshots of b9.OneX need to be updated, as they aren't representative nor true and correct for OneX v0.2.1. Also, the developers have implemented a change in the brand styling and nomenclature of the project, from Onex to b9.OneX, with the 'b9' or 'benign' prefigure upon 'One', with a capital letter 'X' in suffixation, in closure. The rebranding and styling, is for aesthetics, and project, brand and repository differentiation.
-
-------------------------------------------------------------------------
-
-## Operating System Requirements
-
-b9.OneX works on any of the following operating systems (OS):
-- **Android** (Using the Termux App)
-- **Linux** (Ubuntu, Kali, Fedora)
-- **Mac** (Should work, but not sure)
-
-------------------------------------------------------------------------
-
-### Dependencies
-b9.OneX requieres the following packages to run properly:
-* `curl`
-* `git`
-
-------------------------------------------------------------------------
-
-## How to install b9.OneX?
-
-Open the terminal and type following commands.
-First of all, make sure that you have `git` installed
-
-* ```git clone -b stable --single-branch https://github.com/b9Joker108/b9.OneX.git``` 
-
-Go to this directory and run onex # This is yet to be updated for new project and repository 
-* `cd onex`
-* `bash onex`
-
-**If you want to install onex , type the following:** # This is yet to be updated for new project and repository 
-* `chmod +x install && ./install`
-
-# The following instructions are yet to be updated for this new project and repository 
-
-**Before installing, make sure that the base folder is just called `onex`, and not `onex-stable`, or `onex-old`, etc...
-This is for the `install` script, which is instructed to move the `onex` to a specific directory**
-
-------------------------------------------------------------------------
-
-## How to use b9.OneX?
-b9.OneX is very simple and easy to use tool, it's available in both CLI Mode and Menu Mode.
-
-# The following instructions are yet to be updated for this new project and repository 
-
-### CLI Mode :
-`onex -h` or `onex help` for help.
-
-# The following instructions are yet to be updated for this new project and repository 
-
-Options :
-- `onex install/-s [tool_name]` install any tool.
-- `onex search/-s [tool_name]` search any tool.
-- `onex list/-l` list all tools.
-- `onex help/-h` get help.
-
-# The following instructions are yet to be updated for this new project and repository 
-
-### Menu Mode :
-`onex start` to start onex menu mode.
-
-Enter a Number for a specific output:
-- (1) : To show all available tools and type the number of a tool which you want to install.
-- (2) : To show tools category.
-- (3) : If you want to update onex.
-- (4) : If you want to know About Us.
-- (5) : To exit the tool.
-
-------------------------------------------------------------------------
-
-# The following instructions are yet to be updated for this new project and repository 
-
-### How to remove ?
-Type `onex -r` or `onex remove` to uninstall onex.
+# b9.OneX Manual
 
 ---------------------------------------------------------------------
  
-### b9.OneX toolset list (v0.2.1) 
+## b9.OneX toolset list (v0.2.1) 
 
 1 4nonimizer <br /> 
+
+Repository: [https://github.com/Hackplayers/4nonimizer](https://github.com/Hackplayers/4nonimizer)
+
+
 2 A-Rat <br /> 
 3 ADB-Toolkit <br /> 
 4 admin-panel-finder <br /> 
