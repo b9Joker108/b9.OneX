@@ -42,10 +42,12 @@ Go to this directory and run onex # This is yet to be updated for new project an
 * `cd onex`
 * `bash onex`
 
-**If you want to install onex , type the following:** # This is yet to be updated for new project and repository 
+**If you want to install onex , type the following:** 
+NB: This is yet to be updated for new project and repository 
+
 * `chmod +x install && ./install`
 
-# The following instructions are yet to be updated for this new project and repository 
+NB: This is yet to be updated for new project and repository 
 
 **Before installing, make sure that the base folder is just called `onex`, and not `onex-stable`, or `onex-old`, etc...
 This is for the `install` script, which is instructed to move the `onex` to a specific directory**
@@ -55,12 +57,12 @@ This is for the `install` script, which is instructed to move the `onex` to a sp
 ## How to use b9.OneX?
 b9.OneX is very simple and easy to use tool, it's available in both CLI Mode and Menu Mode.
 
-# The following instructions are yet to be updated for this new project and repository 
+NB: This is yet to be updated for new project and repository 
 
 ### CLI Mode :
 `onex -h` or `onex help` for help.
 
-# The following instructions are yet to be updated for this new project and repository 
+NB: This is yet to be updated for new project and repository 
 
 Options :
 - `onex install/-s [tool_name]` install any tool.
@@ -68,7 +70,7 @@ Options :
 - `onex list/-l` list all tools.
 - `onex help/-h` get help.
 
-# The following instructions are yet to be updated for this new project and repository 
+NB: This is yet to be updated for new project and repository 
 
 ### Menu Mode :
 `onex start` to start onex menu mode.
@@ -82,7 +84,7 @@ Enter a Number for a specific output:
 
 ------------------------------------------------------------------------
 
-# The following instructions are yet to be updated for this new project and repository 
+NB: This is yet to be updated for new project and repository 
 
 ### How to remove ?
 Type `onex -r` or `onex remove` to uninstall onex.
