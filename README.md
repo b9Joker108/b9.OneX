@@ -48,9 +48,9 @@ Go to this directory and run onex
 **If you want to install onex , type the following:** 
 NB: This is yet to be updated for new project and repository 
 
-’’’sh
+```sh
 chmod +x install && ./install
-’’’
+```
 
 NB: This is yet to be updated for new project and repository 
 
@@ -68,15 +68,15 @@ NB: This is yet to be updated for new project and repository
 
 For help
 
-’’’sh
+```sh
 onex -h
-’’’ 
+```
 
 or 
 
-’’’sh
+```sh
 onex help
-’’’
+```
 
 NB: This is yet to be updated for new project and repository 
 
@@ -105,15 +105,15 @@ NB: This is yet to be updated for new project and repository
 ### How to remove ?
 To uninstall:
 
-’’’sh
+```sh
 onex -r
-’’’
+```
 
 or 
 
-’’’sh
+```sh
 onex remove
-’’’
+```
 
 
 ---------------------------------------------------------------------
