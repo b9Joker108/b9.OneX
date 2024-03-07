@@ -1,6 +1,6 @@
 #!/bin/sh
-# Name : Onex installer script
-# Read about onex in README.md 
+# Name : b9.OneX installer script
+# Read about b9.OneX in README.md 
 
 set -e
 
