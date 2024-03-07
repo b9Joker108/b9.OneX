@@ -1,10 +1,4 @@
- _     ___   ___            __  __         ___   ____    _ <br />
-| |__ / _ \ / _ \ _ __   ___\ \/ / __   __/ _ \ |___ \  / | <br />
-| '_ \ (_) | | | | '_ \ / _ \\  /  \ \ / / | | |  __) | | | <br />
-| |_) \__, | |_| | | | |  __//  \   \ V /| |_| | / __/ _| | <br />
-|_.__/  /_(_)___/|_| |_|\___/_/\_\   \_/  \___(_)_____(_)_| <br />
-
-# b9.OneX v0.2.1
+p# b9.OneX v0.2.1
 
 **Disclaimer**: This software is meant for educational purposes only. The developers are not responsible for any malicious or inappropriate use of the tools that may be download using this application.
 
@@ -284,243 +278,243 @@ Type `onex -r` or `onex remove` to uninstall onex.
 185 IPGeoLocation <br /> 
 186 iSMTP <br /> 
 187 javasnoop <br /> 
-188 jboss-autopwn
-189 johnny
-190 JohnTheRipper
-191 joomscan
-192 jsql-injection
-193 k-fuscator
-194 kali-anonsurf
-195 kalibrate-rtl
-196 kalitorify
-197 KatanaFramework
-198 katoolin
-199 keimpx
-200 Keylogger
-201 kickthemout
-202 killcast
-203 killchain
-204 killerbee
-205 killshot
-206 KitHack
-207 KnockMail
-208 kwetza
-209 LALIN
-210 Lazymux
-211 leviathan
-212 LFISuite
-213 LITEDDOS
-214 LITESPAM
-215 lmd
-216 lscript
-217 lua
-218 lynis
-219 maskphish
-220 maskprocessor
-221 masscan
-222 mat2
-223 MaxPhisher
-224 metasploit-framework
-225 Meterpreter_Paranoid_Mode-SSL
-226 mfcuk
-227 mfoc
-228 mfterm
-229 MHDDoS
-230 mitmAP
-231 MITMf
-232 mitmproxy
-233 morpheus
-234 msfpc
-235 multimon-ng
-236 MyServer
-237 nano
-238 nasm
-239 netattack2
-240 netattack
-241 netdiscover
-242 Nethunter-In-Termux
-243 netsniff-ng
-244 Nettacker
-245 nexphisher
-246 nginx
-247 nikto
-248 nishang
-249 nmapAutomator
-250 nmap
-251 nodexp
-252 noisy
-253 onioff
-254 openvas
-255 ophcrack
-256 OSIF
-257 osrframework
-258 p0f
+188 jboss-autopwn <br /> 
+189 johnny <br /> 
+190 JohnTheRipper <br /> 
+191 joomscan <br /> 
+192 jsql-injection <br /> 
+193 k-fuscator <br /> 
+194 kali-anonsurf <br /> 
+195 kalibrate-rtl <br /> 
+196 kalitorify  <br /> 
+197 KatanaFramework <br /> 
+198 katoolin<br /> 
+199 keimpx<br /> 
+200 Keylogger<br /> 
+201 kickthemout<br /> 
+202 killcast<br /> 
+203 killchain<br /> 
+204 killerbee<br /> 
+205 killshot<br /> 
+206 KitHack<br /> 
+207 KnockMail<br /> 
+208 kwetza<br /> 
+209 LALIN<br /> 
+210 Lazymux<br /> 
+211 leviathan<br /> 
+212 LFISuite<br /> 
+213 LITEDDOS<br /> 
+214 LITESPAM<br /> 
+215 lmd<br /> 
+216 lscript<br /> 
+217 lua<br /> 
+218 lynis<br /> 
+219 maskphish<br /> 
+220 maskprocessor<br /> 
+221 masscan<br /> 
+222 mat2<br /> 
+223 MaxPhisher<br /> 
+224 metasploit-framework<br /> 
+225 Meterpreter_Paranoid_Mode-SSL<br /> 
+226 mfcuk<br /> 
+227 mfoc<br /> 
+228 mfterm<br /> 
+229 MHDDoS<br /> 
+230 mitmAP<br /> 
+231 MITMf<br /> 
+232 mitmproxy<br /> 
+233 morpheus<br /> 
+234 msfpc<br /> 
+235 multimon-ng<br /> 
+236 MyServer<br /> 
+237 nano<br /> 
+238 nasm<br /> 
+239 netattack2<br /> 
+240 netattack<br /> 
+241 netdiscover<br /> 
+242 Nethunter-In-Termux<br /> 
+243 netsniff-ng<br /> 
+244 Nettacker<br /> 
+245 nexphisher<br /> 
+246 nginx<br /> 
+247 nikto<br /> 
+248 nishang<br /> 
+249 nmapAutomator<br /> 
+250 nmap<br /> 
+251 nodexp<br /> 
+252 noisy<br /> 
+253 onioff<br /> 
+254 openvas<br /> 
+255 ophcrack<br /> 
+256 OSIF<br /> 
+257 osrframework<br /> 
+258 p0f<br /> 
 259 PadBuster
-260 Parsero
-261 Passhunt
-262 patator
-263 pdf-parser
-264 pdfid
-265 peepdf
-266 perl
+260 Parsero<br /> 
+261 Passhunt<br /> 
+262 patator<br /> 
+263 pdf-parser<br /> 
+264 pdfid<br /> 
+265 peepdf<br /> 
+266 perl<br /> 
 267 php-reverse-shell
-268 php
-269 PiDense
-270 pixiewps
-271 Planetwork-DDOS
-272 plecost
-273 powerfuzzer
-274 PowerSploit
-275 proxystrike
-276 pupy
-277 pwnat
-278 PwnSTAR
-279 Pybelt
-280 pybluez
-281 PyBozoCrack
-282 pydictor
-283 pyphisher
-284 Pyrit
-285 python-keylogger
-286 python3-shodan
-287 python3
-288 qark
-289 QRLJacking
-290 rang3r
-291 rdpy
-292 reaver
-293 recon-ng
-294 ReconDog
-295 Reconnoitre
-296 RED_HAWK
-297 Remot3d
-298 Responder
-299 ReverseAPK
-300 ridenum
-301 rizin
-302 rkhunter
-303 routersploit
-304 roxysploit
-305 RTLSDR-Scanner
-306 ruby
-307 rust
-308 sAINT
-309 santet-online
-310 Saphyra-DDoS
-311 SARA
-312 SCANNER-INURLBR
-313 secHub
-314 SecLists
-315 SET
-316 SH33LL
-317 shellnoob
-318 shellstack
-319 sherlock
-320 shimit
-321 shodan-eye
-322 shodanwave
-323 SIGIT
-324 Simple-Fuzzer
-325 sipvicious
-326 skipfish
-327 slowhttptest
-328 slowloris
-329 smali
-330 smbmap
-331 smsbaher
-332 Sn1per
-333 sniffjoke
-334 social-engineer-toolkit
-335 SocialBox
-336 SocialFish
-337 spiderfoot
-338 sqliv
-339 sqlmap
-340 sqlmate
-341 sqlscan
-342 sslcaudit
-343 sslsplit
-344 sslstrip
-345 sslyze
-346 Stitch
-347 Striker
-348 Sublist3r
-349 subscraper
-350 sucrack
-351 Tbomb
-352 termineter
-353 termux-fedora
-354 termux-ubuntu
-355 TermuxAlpine
-356 Th3inspector
-357 thc-ipv6
-358 the-backdoor-factory
-359 The-Eye
-360 TheFatRat
-361 theHarvester
-362 toilet
-363 torbrowser-launcher
-364 torghost
-365 torshammer
-366 tor
-367 trackout
-368 trape
-369 trojanizer
-370 truecrack
-371 txtool
-372 Umbrella
-373 unix-privesc-check
-374 Vegile
-375 VidPhisher
-376 voiphopper
-377 volatility
-378 w3af
-379 w3m
-380 wafw00f
-381 webdav
-382 webpwn3r
-383 WebScarab
-384 webshells
-385 websploit
-386 WebXploiter
-387 weeman
-388 weevely3
-389 wfdroid-termux
-390 wfuzz
-391 wget
-392 WhatWeb
+268 php<br /> 
+269 PiDense<br /> 
+270 pixiewps<br /> 
+271 Planetwork-DDOS<br /> 
+272 plecost<br /> 
+273 powerfuzzer<br /> 
+274 PowerSploit<br /> 
+275 proxystrike<br /> 
+276 pupy<br /> 
+277 pwnat<br /> 
+278 PwnSTAR<br /> 
+279 Pybelt<br /> 
+280 pybluez<br /> 
+281 PyBozoCrack<br /> 
+282 pydictor<br /> 
+283 pyphisher<br /> 
+284 Pyrit<br /> 
+285 python-keylogger<br /> 
+286 python3-shodan<br /> 
+287 python3<br /> 
+288 qark<br /> 
+289 QRLJacking<br /> 
+290 rang3r<br /> 
+291 rdpy<br /> 
+292 reaver<br /> 
+293 recon-ng<br /> 
+294 ReconDog<br /> 
+295 Reconnoitre<br /> 
+296 RED_HAWK<br /> 
+297 Remot3d<br /> 
+298 Responder<br /> 
+299 ReverseAPK<br /> 
+300 ridenum<br /> 
+301 rizin<br /> 
+302 rkhunter<br /> 
+303 routersploit<br /> 
+304 roxysploit<br /> 
+305 RTLSDR-Scanner<br /> 
+306 ruby<br /> 
+307 rust<br /> 
+308 sAINT<br /> 
+309 santet-online<br /> 
+310 Saphyra-DDoS<br /> 
+311 SARA<br /> 
+312 SCANNER-INURLBR<br /> 
+313 secHub<br /> 
+314 SecLists<br /> 
+315 SET<br /> 
+316 SH33LL<br /> 
+317 shellnoob<br /> 
+318 shellstack<br /> 
+319 sherlock<br /> 
+320 shimit<br /> 
+321 shodan-eye<br /> 
+322 shodanwave<br /> 
+323 SIGIT<br /> 
+324 Simple-Fuzzer<br /> 
+325 sipvicious<br /> 
+326 skipfish<br /> 
+327 slowhttptest<br /> 
+328 slowloris<br /> 
+329 smali<br /> 
+330 smbmap<br /> 
+331 smsbaher<br /> 
+332 Sn1per<br /> 
+333 sniffjoke<br /> 
+334 social-engineer-toolkit<br /> 
+335 SocialBox<br /> 
+336 SocialFish<br /> 
+337 spiderfoot<br /> 
+338 sqliv<br /> 
+339 sqlmap<br /> 
+340 sqlmate<br /> 
+341 sqlscan<br /> 
+342 sslcaudit<br /> 
+343 sslsplit<br /> 
+344 sslstrip<br /> 
+345 sslyze<br /> 
+346 Stitch<br /> 
+347 Striker<br /> 
+348 Sublist3r<br /> 
+349 subscraper<br /> 
+350 sucrack<br /> 
+351 Tbomb<br /> 
+352 termineter<br /> 
+353 termux-fedora<br /> 
+354 termux-ubuntu<br /> 
+355 TermuxAlpine<br /> 
+356 Th3inspector<br /> 
+357 thc-ipv6<br /> 
+358 the-backdoor-factory<br /> 
+359 The-Eye<br /> 
+360 TheFatRat<br /> 
+361 theHarvester<br /> 
+362 toilet<br /> 
+363 torbrowser-launcher<br /> 
+364 torghost<br /> 
+365 torshammer<br /> 
+366 tor<br /> 
+367 trackout<br /> 
+368 trape<br /> 
+369 trojanizer<br /> 
+370 truecrack<br /> 
+371 txtool<br /> 
+372 Umbrella<br /> 
+373 unix-privesc-check<br /> 
+374 Vegile<br /> 
+375 VidPhisher<br /> 
+376 voiphopper<br /> 
+377 volatility<br /> 
+378 w3af<br /> 
+379 w3m<br /> 
+380 wafw00f<br /> 
+381 webdav<br /> 
+382 webpwn3r<br /> 
+383 WebScarab<br /> 
+384 webshells<br /> 
+385 websploit<br /> 
+386 WebXploiter<br /> 
+387 weeman<br /> 
+388 weevely3<br /> 
+389 wfdroid-termux<br /> 
+390 wfuzz<br /> 
+391 wget<br /> 
+392 WhatWeb<br /> 
 393 wifi-hacker
-394 WiFi-Pumpkin
-395 WifiBruteCrack
-396 wifiphisher
-397 wifitap
-398 wifite2
-399 wifite
-400 wifresti
-401 wig
-402 Winpayloads
-403 wirespy
-404 WP-plugin-scanner
-405 wpscan
-406 wreckuests
-407 XAttacker
-408 xerosploit
-409 XLR8_BOMBER
-410 XPL-SEARCH
-411 xplico
-412 Xshell
-413 xspy
-414 xsser
-415 XSStrike
-416 yersinia
-417 zaproxy
-418 zarp
-419 Zerodoor
-420 ZipBomb
-421 zip
-422 zirikatu
-423 zphisher
-424 zVirus-Gen
+394 WiFi-Pumpkin<br /> 
+395 WifiBruteCrack<br /> 
+396 wifiphisher<br /> 
+397 wifitap<br /> 
+398 wifite2<br /> 
+399 wifite<br /> 
+400 wifresti<br /> 
+401 wig<br /> 
+402 Winpayloads<br /> 
+403 wirespy<br /> 
+404 WP-plugin-scanner<br /> 
+405 wpscan<br /> 
+406 wreckuests<br /> 
+407 XAttacker<br /> 
+408 xerosploit<br /> 
+409 XLR8_BOMBER<br /> 
+410 XPL-SEARCH<br /> 
+411 xplico<br /> 
+412 Xshell<br /> 
+413 xspy<br /> 
+414 xsser<br /> 
+415 XSStrike<br /> 
+416 yersinia<br /> 
+417 zaproxy<br /> 
+418 zarp<br /> 
+419 Zerodoor<br /> 
+420 ZipBomb<br /> 
+421 zip<br /> 
+422 zirikatu<br /> 
+423 zphisher<br /> 
+424 zVirus-Gen<br /> 
 
 Note: As I added the line-break code, to place each enumerated tool on its own line, prescriptive spell-check changed a number of tool name spelling and formatting. I caught a number and repaired them, others I let alone. As, to alternate between the live editing document in the GitHub repository web application, and the Termux terminal emulator with the true-and-correct enumerated OneX toolset list, is like playing Russian Roulette, as potentially the whole session of editing may be lost. So, it isn't worth it. Moreover, I generally, as a matter of preference, prefer not to use a window tiling manager or splitscreen displays for general text editing. So, the audited true-and-correct OneX toolset enumeration, will need to await my whim and the proverbial 'winds of change', as this much repetitive, manual editing, is giving me RSI, and will have to wait another day. 
 
@@ -549,7 +543,175 @@ Note: As I added the line-break code, to place each enumerated tool on its own l
 
 **b9.OneX (v0.2.1)** (2024)
 
+b9.OneX licensing is still under consideration and undergoing advisement. The Onex MIT license permit sublicensing of project forks. So, this newly rebranded fork, to differentiate it from its archived original, will likely sublicence this fork in a dual licence, one for code, the other for documentation. The sublicencse dual-licensing, is yet to bp# b9.OneX v0.2.1
+
+371 txtool<br /> 
+
+372 Umbrella<br /> 
+
+373 unix-privesc-check<br /> 
+
+374 Vegile<br /> 
+
+375 VidPhisher<br /> 
+
+376 voiphopper<br /> 
+
+377 volatility<br /> 
+
+378 w3af<br /> 
+
+379 w3m<br /> 
+
+380 wafw00f<br /> 
+
+381 webdav<br /> 
+
+382 webpwn3r<br /> 
+
+383 WebScarab<br /> 
+
+384 webshells<br /> 
+
+385 websploit<br /> 
+
+386 WebXploiter<br /> 
+
+387 weeman<br /> 
+
+388 weevely3<br /> 
+
+389 wfdroid-termux<br /> 
+
+390 wfuzz<br /> 
+
+391 wget<br /> 
+
+392 WhatWeb<br /> 
+
+393 wifi-hacker
+
+394 WiFi-Pumpkin<br /> 
+
+395 WifiBruteCrack<br /> 
+
+396 wifiphisher<br /> 
+
+397 wifitap<br /> 
+
+398 wifite2<br /> 
+
+399 wifite<br /> 
+
+400 wifresti<br /> 
+
+401 wig<br /> 
+
+402 Winpayloads<br /> 
+
+403 wirespy<br /> 
+
+404 WP-plugin-scanner<br /> 
+
+405 wpscan<br /> 
+
+406 wreckuests<br /> 
+
+407 XAttacker<br /> 
+
+408 xerosploit<br /> 
+
+409 XLR8_BOMBER<br /> 
+
+410 XPL-SEARCH<br /> 
+
+411 xplico<br /> 
+
+412 Xshell<br /> 
+
+413 xspy<br /> 
+
+414 xsser<br /> 
+
+415 XSStrike<br /> 
+
+416 yersinia<br /> 
+
+417 zaproxy<br /> 
+
+418 zarp<br /> 
+
+419 Zerodoor<br /> 
+
+420 ZipBomb<br /> 
+
+421 zip<br /> 
+
+422 zirikatu<br /> 
+
+423 zphisher<br /> 
+
+424 zVirus-Gen<br /> 
+
+
+Note: As I added the line-break code, to place each enumerated tool on its own line, prescriptive spell-check changed a number of tool name spelling and formatting. I caught a number and repaired them, others I let alone. As, to alternate between the live editing document in the GitHub repository web application, and the Termux terminal emulator with the true-and-correct enumerated OneX toolset list, is like playing Russian Roulette, as potentially the whole session of editing may be lost. So, it isn't worth it. Moreover, I generally, as a matter of preference, prefer not to use a window tiling manager or splitscreen displays for general text editing. So, the audited true-and-correct OneX toolset enumeration, will need to await my whim and the proverbial 'winds of change', as this much repetitive, manual editing, is giving me RSI, and will have to wait another day. 
+
+
+------------------------------------------------------------------------
+
+
+## ToDo
+
+* I note that the rational for the project initiator of the main repository in archiving their
+
+initiative and project repository, may be because Distrobox makes it redundant. I still feel the
+
+project is of note, worthwhile, and worth continuing with active maintenance and development. Though,
+
+to do do singularly, is currently decidedly beyond my skill-set and pay-grade. With diligence and
+
+endeavour, I will grow into it. 
+
+* Get acquainted with each tool, their individual purpose and function, and their complete
+
+functionalities, their repositories and maintainers,where possible
+
+* repositories ans maintainers. 
+
+* Support Arch Linux
+
+* Add more tools
+
+* Write more formal documentation
+
+* Implement the toolset enumeration into a table or spreadsheet with toolset details and particulars
+
+and dependencies, and other salient particulars, that is interrogable and reportable. Both, in the
+
+documentation and/repository somehow, as well as in the text user interface (TUI) and/or command-line
+
+interface (CLI) framework. To be determined. 
+
+
+------------------------------------------------------------------------
+
+
+## License
+
+
+**b9.OneX (v0.2.1)** (2024)
+
+
 b9.OneX licensing is still under consideration and undergoing advisement. The Onex MIT license permit sublicensing of project forks. So, this newly rebranded fork, to differentiate it from its archived original, will likely sublicence this fork in a dual licence, one for code, the other for documentation. The sublicencse dual-licensing, is yet to be determined, it will most likely be GNU licensing and 'free' in that sense, and therefore, free and open source (FOSS) and non-corporate. Project version G for code and documentation has also undergone change. It honours the version numbering if the former project, whilst initiating the additional patch numeric, that may in occasion, also be alphanumeric. Yet to be determined. In the interim, the new project fork is still protected by the initial licensing which persists into perpetuity for all derivatives. T. B. A. 
+
+
+**Onex (v0.1) and Onex (v0.2)**
+
+
+Onex is licensed under [MIT](https://github.com/1RaY-1/onex/blob/main/LICENSE) License. (pre-2024)
+
+
+e determined, it will most likely be GNU licensing and 'free' in that sense, and therefore, free and open source (FOSS) and non-corporate. Project version G for code and documentation has also undergone change. It honours the version numbering if the former project, whilst initiating the additional patch numeric, that may in occasion, also be alphanumeric. Yet to be determined. In the interim, the new project fork is still protected by the initial licensing which persists into perpetuity for all derivatives. T. B. A. 
 
 **Onex (v0.1) and Onex (v0.2)**
 
